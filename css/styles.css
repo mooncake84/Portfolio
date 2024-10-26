@@ -11579,19 +11579,19 @@ html {
 }
 
 .profile {
-  position: relative;
-  height: 75vw;
-  width: 75vw;
+  position:sticky;
+  height: 10vw;
+  width: 10vw;
   border-radius: 5vw;
   margin-top: 5vw;
   max-height: 40rem;
   max-width: 40rem;
 }
 .profile .profile-img {
-  height: 80vw;
-  max-height: 35rem;
+  height: 35vw;
+  max-height: 30vw;
   position: absolute;
-  bottom: 0;
+  bottom: 3vw;
   left: 50%;
   transform: translateX(-50%);
 }
