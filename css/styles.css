@@ -11592,6 +11592,7 @@ html {
   max-height: 30vw;
   position: absolute;
   bottom: 3vw;
+  margin-top: 3vw;
   left: 50%;
   transform: translateX(-50%);
 }
